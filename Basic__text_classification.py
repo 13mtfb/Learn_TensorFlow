@@ -1,3 +1,8 @@
+# code for tutorial from tensorflow website available here:
+#   https://www.tensorflow.org/tutorials/keras/text_classification
+#
+#
+
 # import libaries
 import matplotlib.pyplot as plt
 import os
